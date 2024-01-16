@@ -1,0 +1,6 @@
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe.config
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.exe
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\bin\Debug\ListaDinamica.pdb
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.exe
+C:\Users\Professor\Desktop\ListaDinamica\ListaDinamica\obj\Debug\ListaDinamica.pdb
